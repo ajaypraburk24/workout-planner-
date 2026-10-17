@@ -1,0 +1,6 @@
+{
+  "name": "Workout Planner Pro",
+  "description": "Premium workout and nutrition planning dashboard featuring weekly routines, meal guides, BMI calculator, workout timer, progress tracking, and AI fitness coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
